@@ -8,4 +8,4 @@ To use:
 
 git clone https://github.com/NuxRo/vhd-util /opt/vhd-util
 
-/opt/vhd-util/vhd-utils.sh convert bla blah
+/opt/vhd-util/vhd-util.sh convert bla blah
